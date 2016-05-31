@@ -27,4 +27,5 @@ Array.prototype.heapSort = function()
     }
 }
 var t = [0,1,3,4,7,5];
-t.heapSort();
+
+var a = t.heapSort();
